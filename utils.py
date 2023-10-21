@@ -33,8 +33,6 @@ def getArgs():
 
     parser.add_argument('--downsample', type=int, default=0, help='verbosity for printing solver state')
 
-
-
     # parser.add_argument('--neg_rate', type=int, default=1, help='neg:pos rate in training set')
     parser.add_argument('--gpu', type=int, default=1, help='gpu to use')
     parser.add_argument('--k', type=int, default=10, help='NDCG@k')

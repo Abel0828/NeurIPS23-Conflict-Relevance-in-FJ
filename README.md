@@ -1,5 +1,5 @@
-# On the Relationship Between Relevance and Conflict in Online Social Link Recommendations (Data and Code)
-Anonymous Authors
+# On the Relationship Between Relevance and Conflict in Online Social Link Recommendations (NeurIPS 2023)
+Yanbang Wang and Jon Kleinberg, Cornell University
 
 ## Environment
 * `python=3.10.4`
